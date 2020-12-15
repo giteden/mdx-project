@@ -1,0 +1,1 @@
+export {DummyMDX} from './dummy-mdx.mdx'
